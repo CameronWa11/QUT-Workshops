@@ -1,0 +1,13 @@
+// Function for adding a greeting to a message.
+function addGreeting(message) { 
+
+// Add "Hello! The Message is: " to the string.
+return greeting + Message;
+
+}
+
+//Send a message informing someone of this unit's code.
+newMessage = addGreeting(unitCode);
+
+// Show the Message in the console. 
+console.log(newMessage); 
